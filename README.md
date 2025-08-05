@@ -43,3 +43,6 @@ Ici nous avons 3 Images qui ont ete generer par PartyRock et une capture d'ecran
 ## Réflexion personnelle
 
 Ce défi m’a aidé à comprendre concrètement comment structurer un bon prompt, en explorant différentes techniques comme le Zero-shot et le Few-shot. J’ai aussi appris à vulgariser des concepts d’IA à travers une app simple, visuelle et engageante. Une étape de plus dans mon apprentissage de l’intelligence artificielle ! Merci Educloud Academy.
+
+
+#EducloudAcademy #PromptEngineering #IA #PartyRock #ChallengeIA #LLM #ZeroShot #FewShot #ContextEngineering
